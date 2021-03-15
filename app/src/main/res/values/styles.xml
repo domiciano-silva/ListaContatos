@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="TextViewDefault" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">#f00f00</item>
+
+    </style>
+</resources>
